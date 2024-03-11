@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Akshansh0073 
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning full stack.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am Akshansh Kumar Sharma
+I am interested in Full stack Development.
+I am learning java, javascript, Html, Css
+Currently working as Software engineer.
 
 <!---
 Akshansh0073/Akshansh0073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
