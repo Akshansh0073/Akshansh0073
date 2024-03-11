@@ -1,6 +1,6 @@
 I am Akshansh Kumar Sharma,
 I am interested in Full stack Development.
-I am learning java, javascript, Html, Css
+I am learning java, javascript, Html, Css etc. And
 Currently working as Software engineer.
 
 <!---
